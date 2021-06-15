@@ -1,4 +1,4 @@
-# react-tailwind
+# react-tailwind-darkmode
 
 Final Project Sanbercode Course
 
